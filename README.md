@@ -1,1 +1,1 @@
-# This is my First Application on the GitHub.
+# This is my First Application on GitHub.
